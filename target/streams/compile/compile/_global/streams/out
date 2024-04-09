@@ -1,0 +1,12 @@
+[debug] Acquiring lock on file C:\Quan\Data Dashboard\project\target\.sbt-compilation-infos\root-compile\.sbt-idea-lock ...
+[warn] -- [E029] Pattern Match Exhaustivity Warning: C:\Quan\Data Dashboard\src\main\scala\Tools\CardTools.scala:104:4 
+[warn] 104 |    dialog.showAndWait() match {
+[warn]     |    ^^^^^^^^^^^^^^^^^^^^
+[warn]     |    match may not be exhaustive.
+[warn]     |
+[warn]     |    It would fail on pattern case: Some(_)
+[warn]     |
+[warn]     | longer explanation available when compiling with `-explain`
+[warn] there were 3 deprecation warnings; re-run with -deprecation for details
+[warn] two warnings found
+[debug] Releasing lock on file C:\Quan\Data Dashboard\project\target\.sbt-compilation-infos\root-compile\.sbt-idea-lock.
